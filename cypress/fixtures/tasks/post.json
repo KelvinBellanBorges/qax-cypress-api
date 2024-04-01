@@ -1,0 +1,27 @@
+{
+    "create": {
+        "user": {
+            "name": "Duquesa e Frida",
+            "email": "housecat@gmail.com",
+            "password": "123456"
+        },
+        "task": {
+            "name": "briga pelo territorio",
+            "tags": [
+                "Quarto",
+                "Banheiro",
+                "Sala"
+            ]
+        }
+    },
+    "duplicat": {
+        "user": {
+            "name": "Rosinha Madalena",
+            "email": "rosinhamadada@gmail.com",
+            "password": "dada123"
+        },
+        "task": {
+            "name": "Ir trabalhar"
+        }
+    }
+}

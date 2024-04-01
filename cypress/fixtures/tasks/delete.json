@@ -1,0 +1,28 @@
+{
+    "remove": {
+        "user": {
+            "name": "Rony Rustico",
+            "email": "ronyrustico@sep.com.br",
+            "password": "123456"
+        },
+        "task": {
+            "name": "Instrumentos de cordas",
+            "tags": [
+                "Violino",
+                "Violoncelo",
+                "Viola"
+            ]
+        }
+    },
+
+    "not_found": {
+        "user": {
+            "name": "Academia musical",
+            "email": "academiamusical@gmail.com",
+            "password": "123456"
+        },
+        "task": {
+            "name": "Instrumentos gerais"
+        }
+    }
+}

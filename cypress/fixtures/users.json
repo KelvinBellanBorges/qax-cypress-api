@@ -1,0 +1,35 @@
+{
+    "login": {
+        "name": "Kelvin Bellan",
+        "email": "kelvin.bellan@gmail.com",
+        "password": "pwd123"
+    },
+
+    "inv_password": {
+        "email": "kelvin.bellan@gmail.com",
+        "password": "123456"
+    },
+
+    "email_404": {
+        "email": "testeQA@gmail.com",
+        "password": "pwd123"
+    },
+
+    "register_user": {
+        "name": "Kelvin Bellan",
+        "email": "kelvin.bellan@gmail.com",
+        "password": "pwd123"
+    },
+
+    "duplicate_email": {
+        "name": "Kelvin Bellan",
+        "email": "kelvin.bellan@gmail.com",
+        "password": "pwd123"
+    },
+
+    "require_fields": {
+        "name": "Kelvin Bellan",
+        "email": "kelvin.bellan@gmail.com",
+        "password": "pwd123"
+    }
+}

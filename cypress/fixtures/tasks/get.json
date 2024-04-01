@@ -1,0 +1,53 @@
+{
+    "list": {
+        "user": {
+            "name": "Amanda Friedrich",
+            "email": "amanda@teste.com",
+            "password": "123456"
+        },
+        "tasks": [
+            {
+                "name": "Flor de buque",
+                "tags": [
+                    "Rosas",
+                    "Verdes",
+                    "Musquitinho"
+                ]
+            },
+            {
+                "name": "Bambus",
+                "tags": [
+                    "Bambu da sorte 2x4",
+                    "Bambu da sorte 3x4"
+                ]
+            }
+        ]
+    },
+    "unique": {
+        "user": {
+            "name": "Frida Friedrich Bellan",
+            "email": "fridolina@teste.com",
+            "password": "catmiau123"
+        },
+        "task": {
+            "name": "Ração",
+            "tags": [
+                "Ração 1",
+                "Ração 2",
+                "Ração 3",
+                "Ração 4"
+            ]
+        }
+    },
+
+    "not_found": {
+        "user": {
+            "name": "Duquesa",
+            "email": "duduqueque@teste.com",
+            "password": "duquesa123"
+        },
+        "task": {
+            "name": "Kill Frida"
+        }
+    }
+}

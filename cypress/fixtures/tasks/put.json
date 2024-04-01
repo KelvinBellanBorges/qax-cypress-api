@@ -1,0 +1,28 @@
+{
+    "update": {
+        "user": {
+            "name": "Academia musical",
+            "email": "academiamusicalteste@gmail.com",
+            "password": "teste1"
+        },
+        "task": {
+            "name": "Instrumento",
+            "tags": [
+                "Violão",
+                "Guitarra",
+                "Bateria"
+            ]
+        }
+    },
+
+    "not_found": {
+        "user": {
+            "name": "Thati flores",
+            "email": "florthati@teste.com",
+            "password": "tete123"
+        },
+        "task": {
+            "name": "Vender flores"
+        }
+    }
+}
